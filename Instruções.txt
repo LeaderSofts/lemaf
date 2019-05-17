@@ -1,0 +1,10 @@
+1. Informar o número de passageiros com 2 casas decimais conforme demonstrado abaixo:
+
+Numero de passageiros: 07
+
+O arquivo lerá os dígitos '0' e o outro no lugar de 'X'
+
+Obs: O arquivo pode conter apenas esta informação "Numero de passageiros: XX"
+
+
+Detalhes: Comecei na terça-feira por não checkar o e-mail antes, sendo assim não consegui montar e realizar o cenário de testes nem criar arquivo dist ".jar" para execução, logo o projeto será executado via IDE "Eclipse" que foi a utilizada para criação do projeto.
